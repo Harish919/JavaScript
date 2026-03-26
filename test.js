@@ -1,12 +1,5 @@
-const food ="idly";
+//console.log(0.2 + 0.1 === 0.3);
+console.log(0.2 + 0.1 === 0.3);
+//console.log(0.1 + 0.2);
 
-function foodmenu() {
-    const food = "dosa";
-    console.log(food);
-    if (true) {
-        const food ="porri"
-        console.log(food);
-    }  
-}
-console.log(food);
-foodmenu()
+console.log((0.2 + 0.1).toFixed(2) == 0.30);

@@ -1,19 +1,6 @@
-/* let a=5;
-let b=a; 
+let name = "harish";
+console.log(name[name.length - 1]);
 
-b = 6; 
-
-console.log(b);
-console.log(a); */
-
-let obj = {
-    name : "Tamil", 
-    lastname : "geeks"
-}
-
-let obj2 = obj;
-
-obj2.name = "tamilan"
-
-console.log(obj2);
-console.log(obj);
+let greeting = "hello";
+let add = greeting[2] + greeting[greeting.length -1] + greeting[3];
+console.log(add);

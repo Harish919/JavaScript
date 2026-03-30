@@ -1,5 +1,5 @@
-//console.log(0.2 + 0.1 === 0.3);
-console.log(0.2 + 0.1 === 0.3);
-//console.log(0.1 + 0.2);
-
-console.log((0.2 + 0.1).toFixed(2) == 0.30);
+let data = 712322104003;
+/* console.log(data);
+ */
+data = "Name : Harish";
+console.log(data);

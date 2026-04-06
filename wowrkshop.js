@@ -1,9 +1,6 @@
-let userInput;
-
-if (userInput || 'Guest') {
-    console.log('user is present');
-} else {
-    console.log('NO user detected');
+const a = 2;
+if (1 == "1") {
+  let b = 3;
+  console.log(a + b);
 }
-
-console.log(typeof(userInput));
+console.log(b);

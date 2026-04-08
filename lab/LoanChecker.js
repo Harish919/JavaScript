@@ -31,4 +31,3 @@ console.log(duplexLoanMsg);
 console.log(condoLoanMsg);
 console.log(carLoanMsg);
 console.log(noLoanMsg);
-
